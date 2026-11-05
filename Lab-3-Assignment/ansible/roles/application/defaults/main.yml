@@ -1,0 +1,6 @@
+---
+# Lab 3: Monitoring, Logging & DevSecOps
+# Student: Garvit Sharma | Roll No: 2301730190 | Email: garvitsharma8909@gmail.com
+application_dir: /opt/lab3-monitoring
+application_repository: https://github.com/Garvit7878/DevOps-Assignment.git
+application_version: main
